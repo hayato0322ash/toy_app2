@@ -1,3 +1,3 @@
 # README
 
-rails インストール済み！
+rails インストール済み！!
